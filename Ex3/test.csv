@@ -1,0 +1,12 @@
+num,word,lemma,pos,pos_2,empty,dependency_arc,dependency_part,dependency_arc_2,dependency_part_2
+1,הוא,הוא,PRP,PRP,gen=M|num=S|per=3,3,subj,_,_
+2,ה,ה,DEF,DEF,,3,def,_,_
+3,פיל,פיל,NN,NN,gen=M|num=S,0,ROOT,_,_
+4,ה,ה,DEF,DEF,,5,def,_,_
+5,גדול,גדול,JJ,JJ,gen=M|num=S,3,amod,_,_
+6,ביותר,ביותר,RB,RB,,5,mod,_,_
+7,ב,ב,PREPOSITION,PREPOSITION,,3,prepmod,_,_
+8,ה,ה,DEF,DEF,,9,def,_,_
+9,גן,גן,NN,NN,gen=M|num=S,7,pobj,_,_
+10,ה,ה,DEF,DEF,,11,def,_,_
+11,חיות,חי,JJ,JJ,gen=F|num=P,9,amod,_,_

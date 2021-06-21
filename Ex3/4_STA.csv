@@ -1,0 +1,8 @@
+,text,lemma,upos,xpos,head,deprel,feats
+1,חיות,חיה,NOUN,NOUN,4,nsubj,Definite=Cons|Gender=Fem|Number=Plur
+2,ה,ה,DET,DET,3,det:def,PronType=Art
+3,כיס,כיס,NOUN,NOUN,1,compound:smixut,Gender=Masc|Number=Sing
+4,ביקרו,ביקר,VERB,VERB,0,root,"Gender=Fem,Masc|HebBinyan=PIEL|Number=Plur|Person=3|Tense=Past|Voice=Act"
+5,ב,ב,ADP,ADP,6,case,
+6,רחבי,רחב,NOUN,NOUN,4,obl,Definite=Cons|Gender=Masc|Number=Plur
+7,אוסטרליה,אוסטרליה,PROPN,PROPN,6,compound:smixut,

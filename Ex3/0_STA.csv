@@ -1,0 +1,8 @@
+,text,lemma,upos,xpos,head,deprel,feats
+1,ה,ה,DET,DET,2,det:def,PronType=Art
+2,משפט,משפט,NOUN,NOUN,0,root,Gender=Masc|Number=Sing
+3,ש,ש,SCONJ,SCONJ,6,mark,
+4,אנחנו,הוא,PRON,PRON,6,nsubj,"Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs"
+5,ה,ה,DET,DET,6,mark,PronType=Art
+6,מצאנו,מצא,VERB,VERB,2,acl:relcl,"Gender=Fem,Masc|HebBinyan=PAAL|Number=Plur|Person=1|Tense=Past|Voice=Act"
+7,.,.,PUNCT,PUNCT,2,punct,

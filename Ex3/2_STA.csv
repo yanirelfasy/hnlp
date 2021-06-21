@@ -1,0 +1,10 @@
+,text,lemma,upos,xpos,head,deprel,feats
+1,סיפרתי,סיפר,VERB,VERB,0,root,"Gender=Fem,Masc|HebBinyan=PIEL|Number=Sing|Person=1|Tense=Past|Voice=Act"
+2,ל_,ל,ADP,ADP,3,case,
+3,_אתה,הוא,PRON,PRON,1,obl,Gender=Masc|Number=Sing|Person=2|PronType=Prs
+4,על,על,ADP,ADP,6,case,
+5,ה,ה,DET,DET,6,det:def,PronType=Art
+6,מיטה,מיטה,NOUN,NOUN,1,obl,Gender=Fem|Number=Sing
+7,ה,ה,DET,DET,8,det:def,PronType=Art
+8,חדשה,חדש,ADJ,ADJ,6,amod,Gender=Fem|Number=Sing
+9,?,?,PUNCT,PUNCT,1,punct,

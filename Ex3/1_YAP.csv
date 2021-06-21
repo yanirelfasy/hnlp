@@ -1,0 +1,6 @@
+num,word,lemma,pos,pos_2,empty,dependency_arc,dependency_part,dependency_arc_2,dependency_part_2
+1,היא,הוא,PRP,PRP,gen=F|num=S|per=3,2,subj,_,_
+2,בכתה,בכה,VB,VB,gen=F|num=S|per=3|tense=PAST,0,ROOT,_,_
+3,בכי,בכי,NNT,NNT,gen=M|num=S,2,obj,_,_
+4,תמרורים,תמרור,NN,NN,gen=M|num=P,3,gobj,_,_
+5,.,.,yyDOT,yyDOT,,2,punct,_,_

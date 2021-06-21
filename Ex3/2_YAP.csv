@@ -1,0 +1,10 @@
+num,word,lemma,pos,pos_2,empty,dependency_arc,dependency_part,dependency_arc_2,dependency_part_2
+1,סיפרתי,סיפר,VB,VB,gen=F|gen=M|num=S|per=1|tense=PAST,0,ROOT,_,_
+2,ל,ל,IN,IN,,1,prepmod,_,_
+3,אתה,אתה,S_PRN,S_PRN,gen=M|num=S|per=2,2,pobj,_,_
+4,על,על,IN,IN,,1,comp,_,_
+5,ה,ה,DEF,DEF,,6,def,_,_
+6,מיטה,מיטה,NN,NN,gen=F|num=S,4,pobj,_,_
+7,ה,ה,DEF,DEF,,8,def,_,_
+8,חדשה,חדש,JJ,JJ,gen=F|num=S,6,amod,_,_
+9,?,?,yyQM,yyQM,,1,punct,_,_

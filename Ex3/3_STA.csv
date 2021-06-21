@@ -1,0 +1,6 @@
+,text,lemma,upos,xpos,head,deprel,feats
+1,מרבה,מרבה,DET,DET,2,det,Definite=Cons
+2,נכסים,נכס,NOUN,NOUN,3,nsubj,Gender=Masc|Number=Plur
+3,מרבה,הרבה,VERB,VERB,0,root,"Gender=Masc|HebBinyan=HIFIL|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act"
+4,דאגה,דאגה,NOUN,NOUN,3,obj,Gender=Fem|Number=Sing
+5,.,.,PUNCT,PUNCT,3,punct,

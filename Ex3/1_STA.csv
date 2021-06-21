@@ -1,0 +1,8 @@
+,text,lemma,upos,xpos,head,deprel,feats
+1,היא,הוא,PRON,PRON,3,nsubj,Gender=Fem|Number=Sing|Person=3|PronType=Prs
+2,ב,ב,ADP,ADP,3,case,
+3,כתה,כתה,NOUN,NOUN,0,root,Gender=Fem|Number=Sing
+4,ב,ב,ADP,ADP,6,case,
+5,כי,כי,SCONJ,SCONJ,6,mark,
+6,תמרורים,תמרור,NOUN,NOUN,3,nmod,Gender=Masc|Number=Plur
+7,.,.,PUNCT,PUNCT,3,punct,
