@@ -1,0 +1,11 @@
+=============================
+= List of submitted files: =
+=============================
+README - This file
+USERS - A file containing the names and IDs of participants in the project
+project.pdf - Description of the workprocess on the project
+main.py - The code used to test performance on the classifier
+classifier.py - Implementation of the API as product by you.
+tweets.csv - A file containing the tweets we use to learn
+load_tweets.py - Implements a function to load tweets from a file
+PiplineBagOfWords.py - Implements the learned classifier used by classifier.py
