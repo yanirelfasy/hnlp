@@ -1,0 +1,32 @@
+README!
+Two python files:
+1. data_loader.py
+2. ex3.py
+
+----------------------
+data_loader.py :
+    As given by the course.
+    2 methods were added to SentimentTreeNode class:
+    1. def get_rare_word_test_set(self):
+        return: list of Sentence instances,with rare words, for the test part of the dataset
+    2. get_neg_word_test_set(self)
+        return: list of Sentence instances,with negative words, for the test part of the dataset
+ex3.py:
+    implementation of all the classes and function the course gave.
+    Additional fields,methods and functions:
+
+    Under training functions:
+        1. def run_model_W2V()
+        2. def run_model_one_hot()
+        3. def run_model_LSTM()
+        These functions just run the differents models with the TEST and special subsets.
+
+    In DataManager class we added 2 fields:
+        1. self.sentences[RARE]
+        2. self.sentences[NEG]
+        same as the VAL, TEST and TRAINING. This time for the negative words in test and rare words in test.
+        Now we can create a iterator for this subsets too.
+
+     We did not implemented
+        def get_predictions_for_data(model, data_iter).
+        We did not needed it. Thanks.
